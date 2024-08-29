@@ -6,4 +6,6 @@ Meu nome Nicolas Arley
 -Estou me desenvolvendo na linguagem JavaScript 
 -utiliso o espaçonpaa minha organização e compartilhamento dps meus projetos
 
-![image](https://github.com/user-attachments/assets/3eae30a8-3420-4ef7-94f1-6c6ca04eb707)
+![image](https://github.com/user-attachments/assets/a70823b8-3af3-4d4b-94a6-502eb108f19b)
+
+
